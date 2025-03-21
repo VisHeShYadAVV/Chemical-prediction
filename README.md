@@ -1,1 +1,2 @@
-# First-ml-project
+Solubility Prediction using ML
+This project predicts the solubility (logS) of chemical compounds using Linear Regression and Random Forest models. It evaluates performance using MSE and R² Score, helping in drug discovery and chemical analysis. 
